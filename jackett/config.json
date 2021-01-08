@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "slug": "hassio_jackett",
   "description" : "An addon to add jackett to hassio",
-  "url" : "https://github.com/Sabuto/hassio-jackett",
+  "url" : "https://github.com/gyusza/hassio-jackett",
   "arch": ["armv7", "aarch64", "amd64"],
   "startup": "before",
   "boot": "auto",
